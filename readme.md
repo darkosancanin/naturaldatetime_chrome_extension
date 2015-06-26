@@ -6,4 +6,4 @@ Natural Date and Time is a natural language date and time zone engine which allo
 See https://github.com/darkosancanin/naturaldatetime_web and http://www.naturaldateandtime.com for more details on the application.
 
 ## Screenshot
-![Natural Date and Time](https://raw.githubusercontent.com/darkosancanin/naturaldatetime_chrome_extension/master/images/screenshot.png)
+![Natural Date and Time](https://raw.githubusercontent.com/darkosancanin/naturaldatetime_chrome_extension/master/screenshot.png)
