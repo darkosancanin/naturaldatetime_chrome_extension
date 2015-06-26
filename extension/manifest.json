@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Natural Date and Time",
-  "description": "Natural Date and Time is a natural language date and time zone engine which allows you to view time and date information for any major city in the world by querying in natural English text.",
-  "version": "1.0",
+  "description": "Natural Date and Time allows you to view time and date information for any major city by querying in natural English text.",
+  "version": "2.0",
   "author": "Darko Sancanin",
   "icons": { "16": "icon16.png",
              "48": "icon48.png",
